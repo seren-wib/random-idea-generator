@@ -1,0 +1,12 @@
+{
+  "name": "seren-wib",
+  "description": "Claude skills by seren-wib",
+  "owner": { "name": "seren-wib" },
+  "plugins": [
+    {
+      "name": "random-idea",
+      "source": "./",
+      "description": "Draws random technologies from a list of 2,763 in 17 categories and proposes project ideas that use all of them"
+    }
+  ]
+}

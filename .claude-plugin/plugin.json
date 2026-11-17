@@ -1,0 +1,11 @@
+{
+  "name": "random-idea",
+  "version": "0.1.0",
+  "description": "Draws random technologies from a list of 2,763 in 17 categories and proposes project ideas that use all of them",
+  "author": {
+    "name": "seren-wib",
+    "url": "https://github.com/seren-wib"
+  },
+  "homepage": "https://github.com/seren-wib/random-idea-generator",
+  "license": "MIT"
+}
